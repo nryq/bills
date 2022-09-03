@@ -1,0 +1,3 @@
+// initial state
+export default () => ({
+});
